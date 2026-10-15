@@ -48,7 +48,7 @@
     "@eslint/eslintrc": "^3.2.0",
     "@payloadcms/db-mongodb": "3.82.1",
     "@payloadcms/db-postgres": "3.82.1",
-    "@payloadcms/db-sqlite": "3.82.1",
+    "@payloadcms/db-sqlite": "3.90.0",
     "@payloadcms/eslint-config": "3.28.0",
     "@payloadcms/next": "3.82.1",
     "@payloadcms/richtext-lexical": "3.82.1",
