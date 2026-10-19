@@ -33,7 +33,7 @@
     "@miniflare/shared": "2.14.4",
     "@modelcontextprotocol/sdk": "^1.27.1",
     "@next/env": "16.2.3",
-    "@opennextjs/cloudflare": "1.16.1",
+    "@opennextjs/cloudflare": "1.20.2",
     "@payloadcms/admin-bar": "workspace:*",
     "@payloadcms/db-d1-sqlite": "workspace:*",
     "@payloadcms/db-mongodb": "workspace:*",
